@@ -12,8 +12,8 @@ def read_number(prompt):
 def division_option():
     """Perform division with handled input and zero-division errors."""
     try:
-        numerator = read_number("Enter numerator: ")
-        denominator = read_number("Enter denominator: ")
+        numerator = read_number("Enter the first number: ")
+        denominator = read_number("Enter the second number: ")
         result = numerator / denominator
     except ValueError:
         print("Error: Please enter numeric values.")
