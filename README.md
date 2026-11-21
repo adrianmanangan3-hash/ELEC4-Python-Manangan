@@ -24,4 +24,17 @@ python set1/p4/p4_exceptions.py
 
 ## Screenshots
 
-Screenshots for each activity should be placed in `set1/<activity>/screenshots`.
+Screenshots for each activity should be placed in.
+![set1/p1/screenshots](set1/p1/screenshots/p1_screenshot.png)
+
+![set1/p2/screenshots](set1/p2/screenshots/p2_screenshot.png)
+
+![set1/p3/screenshots](set1/p3/screenshots/1_AddStudent.png)
+![set1/p3/screenshots](set1/p3/screenshots/2_RemoveStudent.png)
+![set1/p3/screenshots](set1/p3/screenshots/3_SearchStudent.png)
+![set1/p3/screenshots](set1/p3/screenshots/4_DisplayAllStudent.png)
+
+![set1/p4/screenshots](set1/p4/screenshots/1_division.png)
+![set1/p4/screenshots](set1/p4/screenshots/2_OpenFile.png)
+![set1/p4/screenshots](set1/p4/screenshots/DivisionByZero.png)
+![set1/p4/screenshots](set1/p4/screenshots/Invalid_Menu_Selection.png)
