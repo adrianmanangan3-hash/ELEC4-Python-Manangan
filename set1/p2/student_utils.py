@@ -1,4 +1,4 @@
-# Name: Adrian Romeo D. Manangan
+# Name: Manangan, Adrian Romeo D.
 # Section: IV-BSIT C
 # Activity: P2 - Student Utilities Module
 # Date: November 21, 2026

@@ -1,4 +1,4 @@
-# Name: Adrian Romeo D. Manangan
+# Name: Manangan, Adrian Romeo D.
 # Section: IV-BSIT C
 # Activity: P1 - Student Grade Calculator
 # Date: November 21, 2026
