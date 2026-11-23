@@ -13,6 +13,15 @@ Course Code: ELEC 4 - Python Programming
 | P3       | Student Record Manager        | [set1/p3](set1/p3) |
 | P4       | Safe Menu Program             | [set1/p4](set1/p4) |
 
+## Set 2 Activities
+
+| Activity | Description                            | Folder             |
+| -------- | -------------------------------------- | ------------------ |
+| P5       | Student Information File System        | [set2/p5](set2/p5) |
+| P6       | Recursion Toolkit                      | [set2/p6](set2/p6) |
+| P7       | Student Management System with Classes | [set2/p7](set2/p7) |
+| P8       | Inheritance and Polymorphism           | [set2/p8](set2/p8) |
+
 ## How to Run
 
 ```powershell
@@ -20,6 +29,10 @@ python set1/p1/p1_grade_calculator.py
 python set1/p2/p2_main.py
 python set1/p3/p3_record_manager.py
 python set1/p4/p4_exceptions.py
+python set2/p5/p5_file_system.py
+python set2/p6/p6_recursion.py
+python set2/p7/p7_classes.py
+python set2/p8/p8_inheritance.py
 ```
 
 ## Screenshots

@@ -1,0 +1,5 @@
+2026-001|Alyssa Santos|BSIT - IV-B|92.50
+2026-002|Brandon Reyes|BSIT - IV-B|88.75
+2026-003|Camila Garcia|BSIT - IV-B|95.00
+2026-004|Daniel Cruz|BSIT - IV-B|86.25
+2026-005|Elena Flores|BSIT - IV-B|90.00
