@@ -13,6 +13,15 @@ Course Code: ELEC 4 - Python Programming
 | P3       | Student Record Manager        | [set1/p3](set1/p3) |
 | P4       | Safe Menu Program             | [set1/p4](set1/p4) |
 
+## Set 2 Activities
+
+| Activity | Description                            | Folder             |
+| -------- | -------------------------------------- | ------------------ |
+| P5       | Student Information File System        | [set2/p5](set2/p5) |
+| P6       | Recursion Toolkit                      | [set2/p6](set2/p6) |
+| P7       | Student Management System with Classes | [set2/p7](set2/p7) |
+| P8       | Inheritance and Polymorphism           | [set2/p8](set2/p8) |
+
 ## How to Run
 
 ```powershell
@@ -20,6 +29,10 @@ python set1/p1/p1_grade_calculator.py
 python set1/p2/p2_main.py
 python set1/p3/p3_record_manager.py
 python set1/p4/p4_exceptions.py
+python set2/p5/p5_file_system.py
+python set2/p6/p6_recursion.py
+python set2/p7/p7_classes.py
+python set2/p8/p8_inheritance.py
 ```
 
 ## Screenshots
@@ -38,3 +51,17 @@ Screenshots for each activity should be placed in.
 ![set1/p4/screenshots](set1/p4/screenshots/2_OpenFile.png)
 ![set1/p4/screenshots](set1/p4/screenshots/DivisionByZero.png)
 ![set1/p4/screenshots](set1/p4/screenshots/Invalid_Menu_Selection.png)
+
+![set2/p5/screenshots](set2/p5/screenshots/addStudent.png)
+![set2/p5/screenshots](set2/p5/screenshots/DisplayStudents.png)
+![set2/p5/screenshots](set2/p5/screenshots/UpdateStudent.png)
+![set2/p5/screenshots](set2/p5/screenshots/SearchId.png)
+
+![set2/p6/screenshots](set2/p6/screenshots/factorial.png)
+![set2/p6/screenshots](set2/p6/screenshots/fibonacci.png)
+![set2/p6/screenshots](set2/p6/screenshots/searchlist.png)
+![set2/p6/screenshots](set2/p6/screenshots/sum.png)
+
+![set2/p7/screenshots](set2/p7/screenshot/classes.png)
+
+![set2/p8/screenshots](set2/p8/screenshot/inheritance.png)
