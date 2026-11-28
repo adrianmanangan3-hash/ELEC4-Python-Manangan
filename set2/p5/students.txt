@@ -1,0 +1,8 @@
+2026001|Alexandra Santos|BSIT-2A|92.50
+2026002|Benjamin Reyes|BSIT-2A|88.75
+2026003|Camila Garcia|BSIT-2B|95.00
+2026004|Daniel A. Mendoza|BSIT-2B|86.50
+2026005|Ella Fernandez|BSIT-2A|90.00
+Adrian Manangan|s|sa|33.00
+23-LN-5536|Adrian Romeo Manangan|Bsit-C|90.00
+23-LN-1000|Taro Kei Sakamoto|Bscs-A|90.00
